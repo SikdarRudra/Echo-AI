@@ -1,4 +1,4 @@
-# Echo AI
+# Echo AI(self made)
 
 Advanced Echo AI is a sophisticated virtual assistant designed to enhance user productivity and convenience through voice commands. Leveraging the power of OpenAI's GPT-3 model, it can engage in natural language conversations, perform web searches, fetch weather information, tell the current time, and open various websites.
 
